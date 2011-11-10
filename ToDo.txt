@@ -1,0 +1,19 @@
+0. Set execution policy unrestricted
+1. Disable/set i.e. to work without bs popups
+2. Download chrome, install, make default
+3. Download firefox and install as backup browser
+4. Set firewall to basic safe
+5. Set cmd line from here on all files/folders
+6. Set copy path from here on all files/folders
+7. disable screen save for rdp connections
+8. Set windows to performance mode
+9. set all folder views to detail / show all
+10. disable indexing
+11. find someway to re-install the old companion
+12. set rdp session to allow multiple sessions
+13. disable all crapware
+14. set to essential services only
+15. set password policies to something decent
+16. Show extensions
+17. make notepad default for all shit
+18. dowload notepad ++
